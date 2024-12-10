@@ -1,2 +1,2 @@
 #  Add your engine key
-engine_key = "postgres:postgres@localhost/poker"
+engine_key = "user:password@hostname/database"
